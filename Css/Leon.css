@@ -91,6 +91,7 @@ p{
 }
 @media (max-width: 767px){
     .container{
+        width: 360px;
         margin-left :0;
     }
     .specialtext{
